@@ -1,0 +1,10 @@
+.table_box{padding: 0 10px;}
+.table_center th,.table_center td{text-align: center;}
+.mb_10{margin-bottom: 10px;}
+.mr_10{margin-right: 10px;}
+.link_no_color{color: inherit;}
+.link_no_color:hover{color: inherit;}
+.f_l{float: left;}
+.f_r{float: right;}
+.pager_box{float: right;}
+.cl:after{content:".";display:block;height:0;clear:both;visibility:hidden}.cl{zoom:1}
